@@ -1,5 +1,5 @@
 # Vrinda-Store-Data-Analysis
-It's a data analysis project for vrinda store to improve store's efficiency base on year 2022 data
+It's a data analysis project for vrinda store to improve store's efficiency base on year 2022 data.
 @ Skills Used: Data cleaning, Data Processing, Data Analysis, Data Visualization, Interactive Excel Dashboard, Customer Insights
 
 Some Test Questions:
